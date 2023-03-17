@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetanitUDP", "MetanitUDP\MetanitUDP.csproj", "{F7F54192-0D9A-4765-AFDA-B8DBDA4280AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{1BE0A04B-E2EC-4A2F-9149-FB67A6D93DC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F54192-0D9A-4765-AFDA-B8DBDA4280AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F54192-0D9A-4765-AFDA-B8DBDA4280AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F54192-0D9A-4765-AFDA-B8DBDA4280AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F54192-0D9A-4765-AFDA-B8DBDA4280AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE0A04B-E2EC-4A2F-9149-FB67A6D93DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE0A04B-E2EC-4A2F-9149-FB67A6D93DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE0A04B-E2EC-4A2F-9149-FB67A6D93DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE0A04B-E2EC-4A2F-9149-FB67A6D93DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2654F3E2-5FE4-4D07-AC16-3AD695783C84}
+	EndGlobalSection
+EndGlobal
